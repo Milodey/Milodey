@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/deymilo" target="blank"><img src="https://img.shields.io/twitter/follow/deymilo?logo=twitter&style=for-the-badge" alt="deymilo" /></a> </p>
 
-- 🔭 I’m currently working on **DSA Project**
+- 🔭 I’m currently working on **Profile Project**
 
-- 🌱 I’m currently learning **Striver DSA playlist, Docker**
+- 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **Opensource Project**
+- 👯 I’m looking to collaborate on **Project**
 
-- 🤝 I’m looking for help with **Blockchain**
+- 🤝 I’m looking for help with **CP**
 
 - 👨‍💻 All of my projects are available at [www.nirmallya.me](www.nirmallya.me)
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://www.nirmallya.me/about](https://www.nirmallya.me/about)
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **There are approximately 700 Coding Languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
